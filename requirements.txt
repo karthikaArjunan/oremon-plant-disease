@@ -8,4 +8,3 @@ numpy>=1.9.2
 scikit-learn>=0.18
 scikit-image[data]>=0.18
 tensorflow-cpu>=0.20
-python==3.8
